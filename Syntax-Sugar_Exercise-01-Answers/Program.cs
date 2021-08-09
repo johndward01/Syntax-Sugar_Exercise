@@ -6,7 +6,15 @@ namespace Syntax_Sugar_Exercise_01_Answers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Complete all of the TODOs then push back to GitHub
+
+
+            // TODO: Refactor this IF/ELSE Statement into an inline-if using the ternary operator
+            
+
+            // TODO: Refactor here
+
+
         }
     }
 }
