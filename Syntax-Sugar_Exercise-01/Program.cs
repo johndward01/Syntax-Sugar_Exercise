@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Syntax_Sugar_Exercise_01_Answers
+namespace Syntax_Sugar_Exercise_01
 {
     class Program
     {
